@@ -10,3 +10,5 @@ class Animal {
 }
 
 
+ob =new Animal("cat", 4)
+console.log(ob.describe())
